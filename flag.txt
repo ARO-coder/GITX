@@ -1,1 +1,1 @@
-WXfake{flag}
+WXforensics{git_is_cool}
